@@ -1,0 +1,6 @@
+#构造登录数据
+        post_data={
+           'domain':'CMCC',
+        'enablemacauth':'0',
+           'password':'MTI3NJY2',
+           'username':'18351816060'
