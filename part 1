@@ -1,0 +1,7 @@
+import requests
+import os
+import time 
+while True:
+    status = os.system('ping -c 1 www.baidu.com')
+    if status == 1:
+        print (u'wifi掉线')
